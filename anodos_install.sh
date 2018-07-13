@@ -2,7 +2,7 @@
 
 TMP_FOLDER=$(mktemp -d)
 CONFIG_FILE='ans.conf'
-CONFIGFOLDER='/root/.anodoscoin'
+CONFIGFOLDER='/root/.ans'
 COIN_DAEMON='ansd'
 COIN_CLI='ans-cli'
 COIN_PATH='/usr/local/bin/'
