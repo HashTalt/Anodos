@@ -198,4 +198,6 @@ If you do, congratulations! You have now setup a masternode. If you do not, plea
 Donations are not required, but greatly appreciated :)
 
 Anodos Wallet: 7PRXXdQ2XzCchfXNYyqZ7iWUDzqbZyYhLa
+
 BTC Wallet: 1NcGHPgUQ6mkB1h8HLj9HceuL8uJEKnJ2a
+
