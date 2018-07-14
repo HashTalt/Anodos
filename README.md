@@ -1,4 +1,4 @@
-![Example-Logo](https://i.imgur.com/NmRiu4C.png)
+![Example-Logo](https://i.imgur.com/M35hQ8j.png)
 
 # Anodos Masternode Setup Guide (Ubuntu 16.04)
 This guide will assist you in setting up an Anodos Masternode on a Linux Server running Ubuntu 16.04. (Use at your own risk)
