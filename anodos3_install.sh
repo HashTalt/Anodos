@@ -2,15 +2,15 @@
 
 TMP_FOLDER=$(mktemp -d)
 CONFIG_FILE='ans.conf'
-CONFIGFOLDER='/root/.ans'
-COIN_DAEMON='ansd'
-COIN_CLI='ans-cli'
+CONFIGFOLDER='/home/masternode3/.ans'
+COIN_DAEMON='ansd3'
+COIN_CLI='ans-cli3'
 COIN_PATH='/usr/local/bin/'
 COIN_TGZ='https://github.com/g00tch/Anodos/releases/download/V1.0/Anodos.zip'
 COIN_ZIP=$(echo $COIN_TGZ | awk -F'/' '{print $NF}')
-COIN_NAME='ANODOS'
-COIN_PORT=30101
-RPC_PORT=30100
+COIN_NAME='ANODOS3'
+COIN_PORT=30103
+RPC_PORT=30102
 
 NODEIP=$(curl -s4 icanhazip.com)
 
